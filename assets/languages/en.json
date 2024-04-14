@@ -1,0 +1,15 @@
+{
+  "service_title": "1C:Соцсеть",
+  "main" : "Main",
+  "people" : "People",
+  "rules" : "Rules",
+  "settings": "Settings",
+  "status": "Status",
+  "email": "Email",
+  "phone": "Phone number",
+  "adress" : "Adress",
+  "num_sub": "Count of subs",
+  "left_posts": "Here need posts",
+  "right_posts": "Count posts:",
+  "refresh": "Refresh page"
+}
